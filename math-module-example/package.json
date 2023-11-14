@@ -1,0 +1,15 @@
+{
+  "name": "dsd-math",
+  "version": "0.0.1",
+  "description": "A module providing the basic math operations as functions",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dsd",
+    "math"
+  ],
+  "author": "Joseph Evans",
+  "license": "ISC"
+}
